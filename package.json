@@ -1,0 +1,24 @@
+{
+  "name": "aws-polly-node",
+  "version": "1.0.0",
+  "description": "Cliente para uso da AWS polly com algumas funções prontas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aws-polly-node"
+  },
+  "keywords": [
+    "aws",
+    "polly",
+    "nodejs"
+  ],
+  "author": "aramunii",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1046.0",
+    "fs": "^0.0.1-security"
+  }
+}
