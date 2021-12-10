@@ -1,6 +1,6 @@
 {
   "name": "aws-polly-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cliente para uso da AWS polly com algumas funções prontas.",
   "main": "index.js",
   "scripts": {
